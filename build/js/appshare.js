@@ -1,0 +1,1 @@
+function AppShare(t){var a=window.location.href;t&&(a=t);var o={"https://segmentfault.com":"https://segmentfault.com?/a.html","https://baidu.com":"https://fanyi.baidu.com","http://www.panli.com":"http://panli.mu.gg/"},p={url:o[a]?o[a]:a,title:"哈哈我是测试😄",img:"https://testerhome.com/photo/2015/f4a07b35098dc28fa3e4269c8af2fc7b.png"};return p}
